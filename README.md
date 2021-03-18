@@ -16,9 +16,6 @@ Installing
 **Node.js v12.18.3 or higher is required**
 
 To install the library, you can just run the following command:
-
-.. code:: sh
-
     # Discord.js
     npm install discord.js
 
